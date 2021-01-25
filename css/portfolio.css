@@ -152,6 +152,7 @@ img {
   background: var(--back-btn);
   border-radius: 4px;
   cursor: pointer;
+  border: none;
 }
 /* ====== END NAVIGATION ====== */
 
