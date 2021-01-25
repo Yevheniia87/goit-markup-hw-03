@@ -157,6 +157,9 @@ img {
   letter-spacing: 0.06em;
   color: var(--main-color);
   background: var(--btn-back);
+  border: none;
+  border-radius: 4px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 }
 .modal-button:hover,
 .modal-button:focus {
@@ -165,9 +168,6 @@ img {
 .modal-button-block {
   margin-top: 30px;
   padding-bottom: 200px;
-  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
-  border-radius: 4px;
-  border: none;
 }
 /*====== END HERO ======*/
 
