@@ -61,6 +61,8 @@ img {
   padding-top: 24px;
   padding-bottom: 25px;
   width: 145px;
+  margin-right: 93px;
+  cursor: pointer;
 }
 .logo-img {
   color: var(--logo-nav-header);
